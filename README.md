@@ -58,4 +58,4 @@ A proposta é criar um fluxo automatizado para o cadastro de produtos em sistema
 1. Clone este repositório:
 
    ```bash
-   git clone 
+   git clone https://github.com/joanats/PyAutoTasks.git
