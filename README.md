@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#-tecnologias">🛠 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-o-que-e-este-projeto">💡 O que é este projeto?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-o-que-trata-este-projeto">💡 O que trata este projeto?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-bibliotecas-usadas">📚 Bibliotecas Usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-usar">🧠 Como Usar</a>
 </p>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 💡 O que é este projeto?
+## 💡 O que trata este projeto?
 
 A proposta é criar um fluxo automatizado para o cadastro de produtos em sistemas utilizando Python. O programa interage diretamente com a interface do computador, simulando cliques, digitação e navegação de forma inteligente.  
 
@@ -58,4 +58,4 @@ A proposta é criar um fluxo automatizado para o cadastro de produtos em sistema
 1. Clone este repositório:
 
    ```bash
-   git clone 
+   git clone https://github.com/joanats/PyAutoTasks.git
